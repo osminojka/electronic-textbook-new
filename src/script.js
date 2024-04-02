@@ -1,1 +1,3 @@
-function isvoid(){}
+function isvoid(){
+	// initial develop
+}
